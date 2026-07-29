@@ -32,8 +32,3 @@ I am a college student and Software Developer with a passion for building perfor
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Corrupted-X&layout=compact&langs_count=7&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=Corrupted-X&layout=compact&langs_count=7&theme=highcontrast)
 
-
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/patrick-vandergrift-4a2a7629a/) 
