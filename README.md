@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Patrick 👋
 
-<!--
-**Corrupted-X/Corrupted-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a college student and Software Developer with a passion for building performant applications and exploring complex algorithms. 
+
+
+
+### 🛠️ Programming Languages / Scripts
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,java,js,html,css,php,mysql,r,powershell)](https://skillicons.dev)
+
+
+
+### Applications
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,visualstudio,vscode,pycharm,anaconda,aws,cloudflare,git,ai)](https://skillicons.dev)
+
+
+
+### 🚀 What I'm Building
+
+*   **Church Website:** A dynamic static-site web workflow using Astro and SQLite for efficient event logging.
+
+*   **Algorithm & Utility Tools:** Developed a suite of practical applications including a mortgage calculator, a password reviewer, and a custom grading system.
+
+*   **Data Structures:** Engineered backend implementations utilizing binary search trees and weighted graphs.
+
+
+
+### 📊 GitHub Stats
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Corrupted-X&layout=compact&langs_count=7&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=Corrupted-X&layout=compact&langs_count=7&theme=highcontrast)
+
+
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/patrick-vandergrift-4a2a7629a/) 
