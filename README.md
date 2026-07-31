@@ -30,5 +30,5 @@ I am a college student and Software Developer with a passion for building perfor
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Corrupted-X&layout=compact&langs_count=7&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=Corrupted-X&layout=compact&langs_count=7&theme=highcontrast)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Corrupted-X&langs_count=4&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=Corrupted-X&langs_count=4&theme=highcontrast)
 
